@@ -1,0 +1,20 @@
+GIMP Palette
+Name: FHWA Road Sign colors
+Columns: 3
+#
+ 97  54  29     Brown_SHS
+119  78  36     Brown_NDOT
+ 97  51  20     Brown_Web
+  0 110  85     Green_SHS
+  0 155 103     Green_NDOT
+  0  107 93     Green_Web
+181  39  60     Red_SHS
+237  23  36     Red_NDOT
+  0  62 134     Blue_SHS
+  0 107 177     Blue_NDOT
+255 277   0     Yellow_SHS
+255 242   0     Yellow_NDOT
+230 113   0     Orange_SHS
+247 146  51     Orange_NDOT
+  0   0   0     Black_ALL
+255 255 255     White_ALL
